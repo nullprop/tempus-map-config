@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/laurirasanen/tempus-map-config/static/css/main.0910c5b3.chunk.css",
+    "main.js": "/laurirasanen/tempus-map-config/static/js/main.56857641.chunk.js",
+    "main.js.map": "/laurirasanen/tempus-map-config/static/js/main.56857641.chunk.js.map",
+    "runtime-main.js": "/laurirasanen/tempus-map-config/static/js/runtime-main.3d37437b.js",
+    "runtime-main.js.map": "/laurirasanen/tempus-map-config/static/js/runtime-main.3d37437b.js.map",
+    "static/css/2.150d169a.chunk.css": "/laurirasanen/tempus-map-config/static/css/2.150d169a.chunk.css",
+    "static/js/2.26c7e4b9.chunk.js": "/laurirasanen/tempus-map-config/static/js/2.26c7e4b9.chunk.js",
+    "static/js/2.26c7e4b9.chunk.js.map": "/laurirasanen/tempus-map-config/static/js/2.26c7e4b9.chunk.js.map",
+    "index.html": "/laurirasanen/tempus-map-config/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/laurirasanen/tempus-map-config/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.0910c5b3.chunk.css.map": "/laurirasanen/tempus-map-config/static/css/main.0910c5b3.chunk.css.map",
+    "static/js/2.26c7e4b9.chunk.js.LICENSE.txt": "/laurirasanen/tempus-map-config/static/js/2.26c7e4b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d37437b.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.26c7e4b9.chunk.js",
+    "static/css/main.0910c5b3.chunk.css",
+    "static/js/main.56857641.chunk.js"
+  ]
+}
