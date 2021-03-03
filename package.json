@@ -2,7 +2,7 @@
   "name": "tempus-map-config",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/laurirasanen/tempus-map-config",
+  "homepage": "https://laurirasanen.github.io/tempus-map-config",
   "dependencies": {
     "bootstrap": "^4.6.0",
     "graphql": "^15.5.0",
